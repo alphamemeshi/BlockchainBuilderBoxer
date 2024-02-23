@@ -1,0 +1,19 @@
+{
+  "name": "blockchainbuilderboxer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nomiclabs/hardhat-truffle5": "^2.0.7",
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "ethereumjs-tx": "^2.1.2",
+    "truffle-contract": "^4.0.31"
+  }
+}
